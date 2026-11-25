@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 
-#define MAX_PRODUTOS 15
-#define MAX_TIPOS 5
+#define MAX_PRODUTOS 100
+#define MAX_TIPOS 25
 #define ARQUIVO "marck_dados.txt"
 #define ARQUIVO_VENDAS "Registro de vendas.txt"
 
